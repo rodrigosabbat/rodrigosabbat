@@ -1,6 +1,10 @@
-# Rodrigo dos Santos
+## Rodrigo dos Santos
 Programador? Ainda não. Mas tô trabalhando nisso.
 
+- 🌱 No momento, tentando aprender o básico de web design.
+- 👯 Afim de colaborar com projetos livres
+- 💬 Talk is cheap! Show me the code.
+- 📫 Como entrar em contato: rodrigosabbat (em todos os lugares)
 <!--
 **rodrigosabbat/rodrigosabbat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
